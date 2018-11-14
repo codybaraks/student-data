@@ -179,3 +179,6 @@ print(students)
 # print(student["name"], students["age"])
 # print(multi)
 # print(students[86:])
+
+from Lesson12 import *
+add(77,55)
